@@ -1,0 +1,16 @@
+单双引号： ``large, cat-like animals''
+
+插图：
+\begin{figure}[ht]
+
+\centering
+\includegraphics[scale=0.6]{figs/droid.png}
+\caption{this is a figure demo}
+\label{fig:pathdemo}
+\end{figure}
+
+
+h 此处（here）
+t 页顶（top）
+b 页底（bottom）
+p 独立一页（page）

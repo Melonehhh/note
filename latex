@@ -14,3 +14,6 @@ h 此处（here）
 t 页顶（top）
 b 页底（bottom）
 p 独立一页（page）
+
+
+This is figure \ref {img1} 

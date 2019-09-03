@@ -34,8 +34,9 @@
 
 
 
+## Summary from other's
 
-
+[eleurent's github](https://github.com/eleurent/phd-bibliography#policy-gradient)
 
 
 ***[readme tutorial](https://github.com/guodongxiaren/README#readme)

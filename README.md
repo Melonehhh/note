@@ -32,7 +32,8 @@
 
 [Deep Deterministic Policy Gradients in TensorFlow](https://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html)
 
-
+## Other's projects
+[eleurent's highway-env](https://github.com/eleurent/highway-env)  (RL, DDPG, DQN also about parking)
 
 ## Summary from other's
 

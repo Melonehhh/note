@@ -25,5 +25,17 @@
 
     vision-based, compared with LQR and MPC
     
-    
-[readme tutorial](https://github.com/guodongxiaren/README#readme)
+
+
+
+ ## DDPG
+
+[Deep Deterministic Policy Gradients in TensorFlow](https://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html)
+
+
+
+
+
+
+
+***[readme tutorial](https://github.com/guodongxiaren/README#readme)

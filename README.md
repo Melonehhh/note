@@ -1,4 +1,4 @@
-# literature 
+# literature and blog
 
 ## Overall introduction
 [An introduction to Reinforcement Learning](https://www.freecodecamp.org/news/an-introduction-to-reinforcement-learning-4339519de419/)

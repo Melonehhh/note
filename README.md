@@ -3,6 +3,8 @@
 ## Overall introduction
 [An introduction to Reinforcement Learning](https://www.freecodecamp.org/news/an-introduction-to-reinforcement-learning-4339519de419/)
 
+[CMU Deep Reinforcement Learning and Control course](http://www.andrew.cmu.edu/course/10-403/)
+
 [Getting Started with Gym](https://gym.openai.com/docs/)
 
 ## reinforcement learning for autonomous driving

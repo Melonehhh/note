@@ -20,7 +20,9 @@
 [Learning to Drive in a Day](https://arxiv.org/pdf/1807.00412.pdf)
 
     there is also a post about it
-    
+[Autonomous Racing Robot With an Arduino, a Raspberry Pi and a Pi Camera](https://becominghuman.ai/autonomous-racing-robot-with-an-arduino-a-raspberry-pi-and-a-pi-camera-3e72819e1e63)    ----PID method to control the car
+
+[Learning to Drive Smoothly in Minutes](https://towardsdatascience.com/learning-to-drive-smoothly-in-minutes-450a7cdb35f4) ----post of "learning to drive in a day"
     
     
 [Reinforcement Learning and Deep Learning based Lateral Control for Autonomous Driving ](https://arxiv.org/pdf/1810.12778.pdf)
